@@ -4,7 +4,7 @@ In Developing...
 * [**Purpur**](https://github.com/pl3xgaming/Purpur) - Our Father
 * [**Akarin**](https://github.com/Akarin-project/Akarin) - Our Mother
 # Analytics
-|  | Purin | Purpur | Akarin | Tuinity | Paper | Paper |
+|  | Purin | Purpur | Akarin | Tuinity | Paper | Spigot |
 |:-----------------|:---:|:---:|:---:|:---:|:---:|:---:|
 | Actively Updated | ❌ | ✔ | ❌ | ✔ | ✔ | ✔ |
 | Basic API | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
