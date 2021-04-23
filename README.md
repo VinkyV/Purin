@@ -1,5 +1,9 @@
 # Purin - Purpur & Akarin minecraft core!
 In Developing...
+# Based on
+Purpur
+Akarin
+# Analytics
 |  | Purin | Purpur | Akarin | Tuinity | Paper |
 |:-----------------|:---:|:---:|:---:|:---:|:---:|
 | Actively Updated | ❌ | ✔ | ❌ | ✔ | ✔ |
