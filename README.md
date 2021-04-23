@@ -6,5 +6,6 @@ Hentai top!
 | Basic API | ✔ | ✔ | ✔ | ✔ | ✔ |
 | Advanced API | ✔ | ✔ | ✔ | ✔ | ✔ |
 | Fast | ✔ | ✔ | ✔ | ✔ | ✔ |
+| Very Fast | ✔ | ✔ | ✔ | ✔ | ❌ |
 | Extremly Fast | ✔ | ❌ | ✔ | ❌ | ❌ |
 | Blazing Fast | ✔ | ❌ | ❌ | ❌ | ❌ |
