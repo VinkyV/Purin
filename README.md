@@ -1,5 +1,5 @@
 # Purin - Purpur & Akarin minecraft core!
-Hentai top!
+In Developing...
 |  | Purin | Purpur | Akarin | Tuinity | Paper |
 |:-----------------|:---:|:---:|:---:|:---:|:---:|
 | Actively Updated | ❌ | ✔ | ❌ | ✔ | ✔ |
