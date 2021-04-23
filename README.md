@@ -1,6 +1,6 @@
-### Purin - Purpur & Akarin minecraft core!
+# Purin - Purpur & Akarin minecraft core!
 In Developing...
-# Based on
+### Based on
 * Purpur
 * Akarin
 # Analytics
