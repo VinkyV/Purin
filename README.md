@@ -1,2 +1,2 @@
-# Purin
-Purin - Akarin+Purpur minecraft server core!
+# Purin - Purpur & Akarin minecraft core!
+Hentai top!
