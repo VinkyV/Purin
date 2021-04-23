@@ -3,7 +3,7 @@ In Developing...
 # Based on
 * Purpur
 * Akarin
-### Analytics
+# Analytics
 |  | Purin | Purpur | Akarin | Tuinity | Paper |
 |:-----------------|:---:|:---:|:---:|:---:|:---:|
 | Actively Updated | ❌ | ✔ | ❌ | ✔ | ✔ |
