@@ -1,7 +1,6 @@
 # Purin - Purpur & Akarin minecraft core!
 In Developing...
 # Based on
-* [**Paper**](https://github.com/PaperMC/Paper) - Our Grandfather
 * [**Purpur**](https://github.com/pl3xgaming/Purpur) - Our Father
 * [**Akarin**](https://github.com/Akarin-project/Akarin) - Our Mother
 # Analytics
