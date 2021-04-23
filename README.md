@@ -7,7 +7,7 @@ In Developing...
 |  | Purin | Purpur | Akarin | Tuinity | Paper | Paper |
 |:-----------------|:---:|:---:|:---:|:---:|:---:|:---:|
 | Actively Updated | ❌ | ✔ | ❌ | ✔ | ✔ | ✔ |
-| Basic API | ✔ | ✔ | ✔ | ✔ | ✔ | ❌ |
+| Basic API | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 | Advanced API | ✔ | ✔ | ✔ | ✔ | ✔ | ❌ |
 | Fast | ✔ | ✔ | ✔ | ✔ | ✔ | ❌ |
 | Very Fast | ✔ | ✔ | ✔ | ✔ | ❌ | ❌ |
